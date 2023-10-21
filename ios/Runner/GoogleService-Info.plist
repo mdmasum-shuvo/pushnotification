@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDTYe8mXvJrjUchfXO6JISXTs79ZS1hPEQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>758137251152</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.masum.push.pushnotification</string>
+	<key>PROJECT_ID</key>
+	<string>meetmate-30722</string>
+	<key>STORAGE_BUCKET</key>
+	<string>meetmate-30722.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:758137251152:ios:54284aeee989130d853855</string>
+</dict>
+</plist>

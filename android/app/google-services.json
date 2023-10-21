@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "758137251152",
+    "project_id": "meetmate-30722",
+    "storage_bucket": "meetmate-30722.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758137251152:android:030f764e963e033a853855",
+        "android_client_info": {
+          "package_name": "com.masum.push.pushnotification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvntLDhY7_lkcwuXiGGixNGwMUwswicLw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
